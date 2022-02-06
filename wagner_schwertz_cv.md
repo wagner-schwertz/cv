@@ -17,7 +17,7 @@ Trained civil engineer with a background on structural analysis, obsessed with w
 
 ## Skills
 - Modern javascript
-- Modern React (hooks, suspense and CM)
+- Modern React - hooks, suspense, CM
 - HTML5
 - CSS/SASS/Stylis
 - CSS-in-JS solutions such as styled-components and emotion
