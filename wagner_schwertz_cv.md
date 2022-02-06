@@ -2,7 +2,7 @@
 Porto Alegre, Rio Grande do Sul, Brazil\
 +55 51 985199119\
 wagner.schwertz@outlook.com\
-github.com/wagner-schwertz\
+github.com/wagner-schwertz
 
 ## Summary
 Front-end developer with almost 2 years of experience with modern javascript, React enthusiast and system analysis and development student. Worked on international projects developing web application solutions for cryptocurrency and blockchain.
