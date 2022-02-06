@@ -27,3 +27,7 @@ Trained civil engineer with a background on structural analysis, obsessed with w
 - Storybook
 - Angular 2+
 - Node.js and express
+
+## Languages
+- Portuguese
+- English
