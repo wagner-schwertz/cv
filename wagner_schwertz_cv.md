@@ -13,7 +13,7 @@ Trained civil engineer with a background on structural analysis, obsessed with w
 - **Front-end developer** at **NTConsult** *(jun/2020 - mar/2021)*: Worked allocated as front-end developer for a client developing a hub for cryptocurrency wallet and exchange between cryptocurrencies using javascript and React.
 
 ## Education
-- System Analysis and Development at Unisinos (2020 - present)
+- **System Analysis and Development** at **Unisinos** *(2020 - present)*
 
 ## Skills
 - Modern javascript
