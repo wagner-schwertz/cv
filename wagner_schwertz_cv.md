@@ -5,11 +5,11 @@ wagner.schwertz@outlook.com\
 github.com/wagner-schwertz
 
 ## Summary
-Front-end developer with almost 2 years of experience with modern javascript, React enthusiast and system analysis and development student. Worked on international projects developing web application solutions for cryptocurrency and blockchain.
+Front-end developer with more than 2 years of experience with modern javascript, React enthusiast and system analysis and development student. Worked on international projects developing web application solutions for cryptocurrency and blockchain.
 Trained civil engineer with a background on structural analysis, obsessed with web technologies and productivity tools.
 
 ## Work experience
-- **Software Engineer** at **Poatek** *(mar/2021 - present)*: Working as front-end developer allocated on a startup that leverage blockchain techonology for coffee traceability. My responabilities include development of a web application comnprised of several micro front-ends developed in javascript using React, developing and maintaining a React component library to be used in the web application, writing of functional tests for components using jest and testing-library as well as end-to-end tests for the application using cypress.
+- **Software Engineer** at **Poatek** *(mar/2021 - present)*: Working as front-end developer allocated on a startup that leverage blockchain techonology for end-to-end traceability on food and beverage supply chain. My responabilities include development of a web application comprised of several micro front-ends developed in javascript using React, developing and maintaining a React component library to be used in the web application, writing of functional tests for components using jest and testing-library as well as end-to-end tests for the application using cypress.
 - **Front-end developer** at **NTConsult** *(jun/2020 - mar/2021)*: Worked allocated as front-end developer for a client developing a hub for cryptocurrency wallet and exchange between cryptocurrencies using javascript and React.
 
 ## Education
@@ -17,7 +17,7 @@ Trained civil engineer with a background on structural analysis, obsessed with w
 
 ## Skills
 - Modern javascript
-- Modern React - hooks, suspense, CM
+- Modern React - hooks, suspense, concurrent features
 - HTML5
 - CSS/SASS/Stylis
 - CSS-in-JS solutions such as styled-components and emotion
@@ -26,7 +26,7 @@ Trained civil engineer with a background on structural analysis, obsessed with w
 - SSR and SSG with Next.js
 - Storybook
 - Angular 2+
-- Node.js and express
+- Node.js with Express and NestJS
 
 ## Languages
 - Portuguese
