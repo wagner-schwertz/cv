@@ -5,7 +5,7 @@ wagner.schwertz@outlook.com\
 github.com/wagner-schwertz
 
 ## Summary
-Front-end developer with four years of experience with modern javascript, React enthusiast and system analysis and development student. Worked on international projects developing web application solutions for cryptocurrency and blockchain. Trained civil engineer with a background on structural analysis, obsessed with web technologies and productivity tools.
+Front-end developer with six years of experience with modern javascript, React enthusiast and system analysis and development student. Worked on international projects developing web application solutions for cryptocurrency and blockchain. Trained civil engineer with a background on structural analysis, obsessed with web technologies and productivity tools.
 
 ## Work experience
 - **Platform Software Engineer** at **TELUS Digital** *(jun/2022 - present)*: Contributed as a Front-End Engineer to multiple projects for clients across various industries, most notably:
